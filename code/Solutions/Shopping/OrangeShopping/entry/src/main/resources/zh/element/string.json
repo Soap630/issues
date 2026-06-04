@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "entry_descc",
+      "value": "橘子购物"
+    },
+    {
+      "name": "MainAbility_descc",
+      "value": "橘子购物"
+    },
+    {
+      "name": "MainAbility_name",
+      "value": "橘子购物"
+    },
+    {
+      "name": "WorkSchedulerExtensionAbility_label",
+      "value": "WorkSchedulerExtensionAbility"
+    },
+    {
+      "name": "WorkSchedulerExtensionAbility_desc",
+      "value": "system schedules the task execution time"
+    },
+    {
+      "name": "scan_feature_unavailable_title",
+      "value": "扫一扫暂不可用"
+    },
+    {
+      "name": "scan_feature_unavailable_message",
+      "value": "旧版扫码组件与当前 SDK 不兼容，入口会保留，但扫码功能暂时不可用。"
+    }
+  ]
+}

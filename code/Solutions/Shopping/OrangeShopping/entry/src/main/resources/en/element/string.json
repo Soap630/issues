@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "entry_descc",
+      "value": "OrangeShopping"
+    },
+    {
+      "name": "MainAbility_descc",
+      "value": "OrangeShopping"
+    },
+    {
+      "name": "MainAbility_name",
+      "value": "OrangeShopping"
+    },
+    {
+      "name": "WorkSchedulerExtensionAbility_label",
+      "value": "WorkSchedulerExtensionAbility"
+    },
+    {
+      "name": "WorkSchedulerExtensionAbility_desc",
+      "value": "system schedules the task execution time"
+    },
+    {
+      "name": "scan_feature_unavailable_title",
+      "value": "Scanner unavailable"
+    },
+    {
+      "name": "scan_feature_unavailable_message",
+      "value": "The legacy scan component is incompatible with the current SDK. The entry is kept, but scanning is temporarily unavailable."
+    }
+  ]
+}
