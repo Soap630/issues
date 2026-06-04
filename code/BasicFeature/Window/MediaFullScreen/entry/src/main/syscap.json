@@ -1,0 +1,32 @@
+{
+  "devices": {
+    "general": [
+      "default",
+      "tablet"
+    ],
+    "custom": [
+      {
+        "mediaFullScreen": [
+          "SystemCapability.Ability.AbilityBase",
+          "SystemCapability.Ability.AbilityRuntime.Core",
+          "SystemCapability.ArkUI.ArkUI.Full",
+          "SystemCapability.ArkUI.ArkUI.Napi",
+          "SystemCapability.Base",
+          "SystemCapability.BundleManager.BundleFramework",
+          "SystemCapability.BundleManager.BundleFramework.Core",
+          "SystemCapability.FileManagement.StorageService.Backup",
+          "SystemCapability.Global.ResourceManager",
+          "SystemCapability.HiviewDFX.HiLog",
+          "SystemCapability.Multimedia.Audio.Core",
+          "SystemCapability.Multimedia.Audio.Interrupt",
+          "SystemCapability.Multimedia.Media.AVPlayer",
+          "SystemCapability.Multimedia.Media.Core",
+          "SystemCapability.Multimedia.Media.VideoPlayer",
+          "SystemCapability.Utils.Lang",
+          "SystemCapability.Window.SessionManager",
+          "SystemCapability.WindowManager.WindowManager.Core"
+        ]
+      }
+    ]
+  }
+}
