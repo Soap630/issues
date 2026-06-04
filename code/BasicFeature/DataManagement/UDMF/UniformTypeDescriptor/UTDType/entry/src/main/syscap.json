@@ -1,0 +1,29 @@
+{
+  "devices": {
+    "general": [
+      "default",
+      "tablet"
+    ],
+    "custom": [
+      {
+        "utdType": [
+          "SystemCapability.Base",
+          "SystemCapability.Utils.Lang",
+          "SystemCapability.Global.ResourceManager",
+          "SystemCapability.HiviewDFX.HiLog",
+          "SystemCapability.ArkUI.ArkUI.Full",
+          "SystemCapability.ArkUI.ArkUI.Napi",
+          "SystemCapability.ArkUI.ArkUI.Libuv",
+          "SystemCapability.ArkUI.UiAppearance",
+          "SystemCapability.Ability.AbilityBase",
+          "SystemCapability.Ability.AbilityRuntime.Core",
+          "SystemCapability.Ability.AbilityRuntime.AbilityCore",
+          "SystemCapability.Window.SessionManager",
+          "SystemCapability.WindowManager.WindowManager.Core",
+          "SystemCapability.FileManagement.File.FileIO",
+          "SystemCapability.DistributedDataManager.UDMF.Core"
+        ]
+      }
+    ]
+  }
+}

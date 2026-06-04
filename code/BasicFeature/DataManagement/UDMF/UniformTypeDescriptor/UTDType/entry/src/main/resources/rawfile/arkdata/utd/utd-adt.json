@@ -1,0 +1,27 @@
+{
+  "UniformDataTypeDeclarations": [{
+    "TypeId": "ohos.samples.UTDType.image",
+    "BelongingToTypes": ["general.image"],
+    "FilenameExtensions": [".myImage", ".khImage"],
+    "MIMETypes": ["application/my-document", "application/my-doc"],
+    "Description": "My Image.",
+    "ReferenceURL": ""
+  },
+  {
+    "TypeId": "ohos.samples.UTDType.audio",
+    "BelongingToTypes": ["general.audio"],
+    "FilenameExtensions": [".myAudio", ".khAudio"],
+    "MIMETypes": ["application/my-document", "application/my-doc"],
+    "Description": "My audio.",
+    "ReferenceURL": ""
+  },
+  {
+    "TypeId": "ohos.samples.UTDType.video",
+    "BelongingToTypes": ["general.video"],
+    "FilenameExtensions": [".myVideo", ".khVideo"],
+    "MIMETypes": ["application/my-document", "application/my-doc"],
+    "Description": "My video.",
+    "ReferenceURL": ""
+  }
+  ]
+}
