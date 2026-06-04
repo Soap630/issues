@@ -1,0 +1,28 @@
+{
+  "devices": {
+    "general": [
+      "default",
+      "tablet"
+    ],
+    "custom": [
+      {
+        "CertificateFramework": [
+          "SystemCapability.ArkUI.ArkUI.Full",
+          "SystemCapability.Base",
+          "SystemCapability.Ability.AbilityBase",
+          "SystemCapability.Ability.AbilityRuntime.AbilityCore",
+          "SystemCapability.Window.SessionManager",
+          "SystemCapability.WindowManager.WindowManager.Core",
+          "SystemCapability.Global.ResourceManager",
+          "SystemCapability.Utils.Lang",
+          "SystemCapability.HiviewDFX.HiLog",
+          "SystemCapability.Security.Cert",
+          "SystemCapability.Security.CryptoFramework",
+          "SystemCapability.Security.CryptoFramework.Key",
+          "SystemCapability.Security.CryptoFramework.Key.AsymKey",
+          "SystemCapability.Security.CryptoFramework.Signature"
+        ]
+      }
+    ]
+  }
+}
