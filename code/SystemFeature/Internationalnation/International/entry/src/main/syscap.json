@@ -1,0 +1,28 @@
+{
+  "devices": {
+    "general": [
+      "default"
+    ],
+    "custom": [
+      {
+        "international": [
+          "SystemCapability.Base",
+          "SystemCapability.Utils.Lang",
+          "SystemCapability.HiviewDFX.HiLog",
+          "SystemCapability.ArkUI.ArkUI.Full",
+          "SystemCapability.ArkUI.ArkUI.Lite",
+          "SystemCapability.ArkUI.ArkUI.Napi",
+          "SystemCapability.ArkUI.ArkUI.Libuv",
+          "SystemCapability.Ability.AbilityBase",
+          "SystemCapability.Ability.AbilityRuntime.Core",
+          "SystemCapability.Ability.AbilityRuntime.AbilityCore",
+          "SystemCapability.Window.SessionManager",
+          "SystemCapability.WindowManager.WindowManager.Core",
+          "SystemCapability.Global.I18n",
+          "SystemCapability.Global.ResourceManager",
+          "SystemCapability.MiscServices.Time"
+        ]
+      }
+    ]
+  }
+}
