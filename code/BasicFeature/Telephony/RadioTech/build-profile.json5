@@ -1,0 +1,43 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/home/.ohos/config/default_RadioTech_5RUcxgtWmr1SUkzf70LzdcQpYj_7m_xa2wTJMbPf68k=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AB0DE248572823BDE2D3657D371BFA18BFAD8467B44CAE1DA83B942B13BD79EE4DD4018644129",
+          "profile": "/Users/home/.ohos/config/default_RadioTech_5RUcxgtWmr1SUkzf70LzdcQpYj_7m_xa2wTJMbPf68k=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/home/.ohos/config/default_RadioTech_5RUcxgtWmr1SUkzf70LzdcQpYj_7m_xa2wTJMbPf68k=.p12",
+          "storePassword": "0000001A51667AF30A7EDE904F55E12725CDFFEDBEB0CDF6F0FB559CF1185EA361693BA551996ECC8436"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": 20,
+        "compatibleSdkVersion": 20,
+        "targetSdkVersion": 20,
+        "runtimeOS": "OpenHarmony",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
