@@ -1,0 +1,15 @@
+{
+  "name": "camera_js",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "huawei",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "description": "Camera sample for API 20.",
+  "repository": {},
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/hvigor-ohos-plugin": "6.21.1"
+  }
+}
