@@ -1,0 +1,240 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "npm 模块"
+    },
+    {
+      "name": "recently_added",
+      "value": "最近添加"
+    },
+    {
+      "name": "next",
+      "value": "下一步"
+    },
+    {
+      "name": "choice_photo",
+      "value": "选照片"
+    },
+    {
+      "name": "choice_video",
+      "value": "选视频"
+    },
+    {
+      "name": "photograph",
+      "value": "拍照"
+    },
+    {
+      "name": "take_video",
+      "value": "拍视频"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "adjust",
+      "value": "调节"
+    },
+    {
+      "name": "rotate",
+      "value": "旋转"
+    },
+    {
+      "name": "crop",
+      "value": "裁剪"
+    },
+    {
+      "name": "scale",
+      "value": "缩放"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "proportion_three_four",
+      "value": "4:3"
+    },
+    {
+      "name": "proportion_nine_sixth",
+      "value": "16:9"
+    },
+    {
+      "name": "proportion_one_one",
+      "value": "1:1"
+    },
+    {
+      "name": "choice_number",
+      "value": "最多选择六张图片"
+    },
+    {
+      "name": "origin_photo",
+      "value": "原图"
+    },
+    {
+      "name": "narrow",
+      "value": "缩小"
+    },
+    {
+      "name": "amplification",
+      "value": "放大"
+    },
+    {
+      "name": "colorSpaceAdobeRGB",
+      "value": "ADOBE_RGB"
+    },
+    {
+      "name": "colorSpaceDCIP3",
+      "value": "DCI_P3"
+    },
+    {
+      "name": "colorSpaceDisplayP3",
+      "value": "DisplayP3"
+    },
+    {
+      "name": "colorSpaceSRGB",
+      "value": "SRGB"
+    },
+    {
+      "name": "colorSpace",
+      "value": "色域"
+    },
+    {
+      "name": "filter",
+      "value": "滤镜"
+    },
+    {
+      "name": "toning",
+      "value": "调色"
+    },
+    {
+      "name": "text",
+      "value": "文字"
+    },
+    {
+      "name": "sticker",
+      "value": "贴纸"
+    },
+    {
+      "name": "input_content",
+      "value": "输入内容"
+    },
+    {
+      "name": "opacity",
+      "value": "透明度"
+    },
+    {
+      "name": "edit_image_adjust",
+      "value": "调整"
+    },
+    {
+      "name": "edit_image_mark",
+      "value": "标记"
+    },
+    {
+      "name": "edit_image_rotate_90",
+      "value": "顺时针旋转90°"
+    },
+    {
+      "name": "edit_image_rotate_down_90",
+      "value": "逆时针旋转90°"
+    },
+    {
+      "name": "edit_image_resolution",
+      "value": "分辨率"
+    },
+    {
+      "name": "input_text_dialog_text",
+      "value": "文字"
+    },
+    {
+      "name": "input_text_dialog_inputText",
+      "value": "请输入文字"
+    },
+    {
+      "name": "input_text_dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "input_text_dialog_sure",
+      "value": "确定"
+    },
+    {
+      "name": "update_page_edit",
+      "value": "编辑"
+    },
+    {
+      "name": "update_page_delete",
+      "value": "删除"
+    },
+    {
+      "name": "material_font_color_one",
+      "value": "#ffffff"
+    },
+    {
+      "name": "material_font_color_two",
+      "value": "#000000"
+    },
+    {
+      "name": "material_font_color_three",
+      "value": "#6259DE"
+    },
+    {
+      "name": "material_font_color_four",
+      "value": "#4694C2"
+    },
+    {
+      "name": "material_font_color_five",
+      "value": "#5AADA0"
+    },
+    {
+      "name": "material_font_color_six",
+      "value": "#5BA854"
+    },
+    {
+      "name": "material_font_color_seven",
+      "value": "#86AD53"
+    },
+    {
+      "name": "material_font_color_eight",
+      "value": "#8C55C2"
+    },
+    {
+      "name": "material_font_color_nine",
+      "value": "#CC5286"
+    },
+    {
+      "name": "material_font_color_ten",
+      "value": "#D94E38"
+    },
+    {
+      "name": "material_font_color_eleven",
+      "value": "#DB6B42"
+    },
+    {
+      "name": "material_font_color_twelve",
+      "value": "#E08C3A"
+    },
+    {
+      "name": "material_font_color_thirteen",
+      "value": "#D1A738"
+    },
+    {
+      "name": "update_hdr_setting",
+      "value": "修改hdr设置"
+    },
+    {
+      "name": "edit_image_decoding_auto",
+      "value": "自动"
+    },
+    {
+      "name": "edit_image_decoding_sdr",
+      "value": "SDR"
+    },
+    {
+      "name": "edit_image_decoding_hdr",
+      "value": "HDR"
+    }
+  ]
+}

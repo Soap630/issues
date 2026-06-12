@@ -1,0 +1,240 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    },
+    {
+      "name": "recently_added",
+      "value": "recently added"
+    },
+    {
+      "name": "next",
+      "value": "next"
+    },
+    {
+      "name": "choice_photo",
+      "value": "choice photo"
+    },
+    {
+      "name": "choice_video",
+      "value": "choice video"
+    },
+    {
+      "name": "photograph",
+      "value": "take photo"
+    },
+    {
+      "name": "take_video",
+      "value": "take video"
+    },
+    {
+      "name": "complete",
+      "value": "complete"
+    },
+    {
+      "name": "adjust",
+      "value": "adjust"
+    },
+    {
+      "name": "rotate",
+      "value": "rotate"
+    },
+    {
+      "name": "crop",
+      "value": "crop"
+    },
+    {
+      "name": "scale",
+      "value": "scale"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "proportion_three_four",
+      "value": "4:3"
+    },
+    {
+      "name": "proportion_nine_sixth",
+      "value": "16:9"
+    },
+    {
+      "name": "proportion_one_one",
+      "value": "1:1"
+    },
+    {
+      "name": "choice_number",
+      "value": "select a maximum of six images"
+    },
+    {
+      "name": "origin_photo",
+      "value": "origin photo"
+    },
+    {
+      "name": "narrow",
+      "value": "narrow"
+    },
+    {
+      "name": "amplification",
+      "value": "amplification"
+    },
+    {
+      "name": "colorSpaceAdobeRGB",
+      "value": "ADOBE_RGB"
+    },
+    {
+      "name": "colorSpaceDCIP3",
+      "value": "DCI_P3"
+    },
+    {
+      "name": "colorSpaceDisplayP3",
+      "value": "DisplayP3"
+    },
+    {
+      "name": "colorSpaceSRGB",
+      "value": "SRGB"
+    },
+    {
+      "name": "colorSpace",
+      "value": "colorSpace"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "toning",
+      "value": "toning"
+    },
+    {
+      "name": "text",
+      "value": "text"
+    },
+    {
+      "name": "sticker",
+      "value": "sticker"
+    },
+    {
+      "name": "input_content",
+      "value": "input content"
+    },
+    {
+      "name": "opacity",
+      "value": "opacity"
+    },
+    {
+      "name": "edit_image_adjust",
+      "value": "adjust"
+    },
+    {
+      "name": "edit_image_mark",
+      "value": "mark"
+    },
+    {
+      "name": "edit_image_rotate_90",
+      "value": "Rotate 90° clockwise"
+    },
+    {
+      "name": "edit_image_rotate_down_90",
+      "value": "Rotate the counterhomeostic needle 90°"
+    },
+    {
+      "name": "edit_image_resolution",
+      "value": "resolution"
+    },
+    {
+      "name": "input_text_dialog_text",
+      "value": "text"
+    },
+    {
+      "name": "input_text_dialog_inputText",
+      "value": "Please enter text"
+    },
+    {
+      "name": "input_text_dialog_cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "input_text_dialog_sure",
+      "value": "sure"
+    },
+    {
+      "name": "update_page_edit",
+      "value": "edit"
+    },
+    {
+      "name": "update_page_delete",
+      "value": "delete"
+    },
+    {
+      "name": "material_font_color_one",
+      "value": "#ffffff"
+    },
+    {
+      "name": "material_font_color_two",
+      "value": "#000000"
+    },
+    {
+      "name": "material_font_color_three",
+      "value": "#6259DE"
+    },
+    {
+      "name": "material_font_color_four",
+      "value": "#4694C2"
+    },
+    {
+      "name": "material_font_color_five",
+      "value": "#5AADA0"
+    },
+    {
+      "name": "material_font_color_six",
+      "value": "#5BA854"
+    },
+    {
+      "name": "material_font_color_seven",
+      "value": "#86AD53"
+    },
+    {
+      "name": "material_font_color_eight",
+      "value": "#8C55C2"
+    },
+    {
+      "name": "material_font_color_nine",
+      "value": "#CC5286"
+    },
+    {
+      "name": "material_font_color_ten",
+      "value": "#D94E38"
+    },
+    {
+      "name": "material_font_color_eleven",
+      "value": "#DB6B42"
+    },
+    {
+      "name": "material_font_color_twelve",
+      "value": "#E08C3A"
+    },
+    {
+      "name": "material_font_color_thirteen",
+      "value": "#D1A738"
+    },
+    {
+      "name": "update_hdr_setting",
+      "value": "update hdr setting"
+    },
+    {
+      "name": "edit_image_decoding_auto",
+      "value": "AUTO"
+    },
+    {
+      "name": "edit_image_decoding_sdr",
+      "value": "SDR"
+    },
+    {
+      "name": "edit_image_decoding_hdr",
+      "value": "HDR"
+    }
+  ]
+}
